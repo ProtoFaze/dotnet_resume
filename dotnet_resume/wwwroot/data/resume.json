@@ -1,0 +1,21 @@
+{
+    "about":"Software developer",
+    "experiences":[
+        {"companyname":"Ingeniouslab", "title":"Junior Software Developer", "tenure":"15 July 2023-1st July 2024","description":"Setting up automated unit tests, and implementing feature changes for an enterprise app in Swift"},
+        {"companyname":"Global mail solutions", "title":"Dta entry clerk", "tenure":"15 July 2018-1st July 2019","description":"Setting up automated unit tests, and implementing feature changes for an enterprise app in Swift" }
+    ],
+    "education":[
+        {"faculty": "Asia Pacific University", "course":"Degree in Artificial Intelligence"},
+        {"faculty": "Asia Pacific University", "course":"Diploma in software Engineering"}
+    ],
+    "skills":[
+        {
+            "name": ".NET",
+            "score": "1-beginner"
+        },
+        {
+            "name": "Swift",
+            "score": "3-experience"
+        }
+    ]
+}

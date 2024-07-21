@@ -1,0 +1,6 @@
+/Users/damonng/Downloads/prototypes/dotnet/dotnet_resume/dotnet_resume/obj/Debug/net8.0/dotnet_resume.csproj.AssemblyReference.cache
+/Users/damonng/Downloads/prototypes/dotnet/dotnet_resume/dotnet_resume/obj/Debug/net8.0/dotnet_resume.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damonng/Downloads/prototypes/dotnet/dotnet_resume/dotnet_resume/obj/Debug/net8.0/dotnet_resume.AssemblyInfoInputs.cache
+/Users/damonng/Downloads/prototypes/dotnet/dotnet_resume/dotnet_resume/obj/Debug/net8.0/dotnet_resume.AssemblyInfo.cs
+/Users/damonng/Downloads/prototypes/dotnet/dotnet_resume/dotnet_resume/obj/Debug/net8.0/dotnet_resume.csproj.CoreCompileInputs.cache
+/Users/damonng/Downloads/prototypes/dotnet/dotnet_resume/dotnet_resume/obj/Debug/net8.0/dotnet_resume.MvcApplicationPartsAssemblyInfo.cache

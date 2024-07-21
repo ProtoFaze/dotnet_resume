@@ -1,0 +1,12 @@
+@using Types
+@namespace dotnet_resume
+
+<div ckass"education">
+    <h3>@data?.Faculty</h3>
+    <h3>@data?.Course</h3>
+</div>
+
+@code{
+     [Parameter]
+  public EducationModel? data { get; set; }
+}
